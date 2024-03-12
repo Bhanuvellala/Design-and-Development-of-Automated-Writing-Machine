@@ -8,7 +8,7 @@ During my Bachelor of Technology program, I had the opportunity to collaborate w
 The project aimed to create a machine capable of autonomously producing handwritten text, offering a blend of robotics, artificial intelligence, and creative design.
 
 ### Collaborators
-- **Ayyappa Reddy** (@Vempalli): Contributed to the mechanical design and fabrication of the machine.
+- **Ayyappa Reddy Vempalli**: Contributed to the mechanical design and fabrication of the machine.
 - **Chandrakala Kancharla**: Provided expertise in software development and integration.
 - **Keerthi Nagireddypalli**: Assisted with research, project management, and documentation.
 
