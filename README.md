@@ -1,6 +1,6 @@
 # Design and Development of an Automated Writing Machine
 
-## Annamacharya Institute of Technology and Sciences, Bangalore
+## Annamacharya Institute of Technology and Sciences, Rajampeta
 
 During my Bachelor of Technology program, I had the opportunity to collaborate with my friends, **Vempalli Ayyappa Reddy**, **Chandrakala Kancharla**, and **Keerthi Nagireddypalli**, on an exciting project: the design and development of an **Automated Writing Machine**.
 
